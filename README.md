@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Skills
+HTML5 CSS3 SASS Javascript React NPM JSON Font Awesome Vscode Boostrap Java Git MSWord Ubunto Windows
 <!--
 **381deepak/381deepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
